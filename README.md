@@ -1,4 +1,4 @@
-### Hi there 👋! Welcome to my [Github](https://github.com/ntdkhiem) Page!
+### Hi there 👋! Welcome to my [Github](https://github.com/CKWlee) Page!
 
 #### This page contains the advancements I've made in my quest to explore the different applications of computer science
 
